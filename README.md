@@ -31,3 +31,28 @@ install socket.io
 ```
 yarn add socket.io
 yarn add -D @types/socket.io ```
+
+aula 1 OK 
+
+-------------------------
+
+vitejs.dev to install react project
+
+``` yarn create vite web --template react-ts ```
+
+Configure and exclude all unused files
+
+By default we will use css modules from vite.
+
+install ```yarn add sass```
+
+```yarn add react-icons 
+```
+
+class 02 37:29
+
+Styling page
+fetching data from api
+config for github authentication
+
+class 02 1:08:37
