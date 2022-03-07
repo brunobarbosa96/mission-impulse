@@ -56,3 +56,6 @@ fetching data from api
 config for github authentication
 
 class 02 1:08:37
+
+install 
+```yarn add socket.io-client ```
