@@ -110,3 +110,24 @@ expo install expo-linear-gradient
 ````
 
 class 03 1:12:45
+
+install moti to animations
+````
+yarn add moti
+expo install react-native-reanimated
+````
+
+after installation include a new plugin at babel.config (https://docs.expo.dev/versions/v44.0.0/sdk/reanimated/)
+
+
+to authentication we have to use AuthSession from expo
+
+```
+expo install expo-auth-session expo-random
+```
+
+add new auth project at github adding from expo. (https://docs.expo.dev/versions/v44.0.0/sdk/auth-session/)
+
+add new scheme in package.json.
+
+class 03 2:03:35
