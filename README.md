@@ -131,3 +131,23 @@ add new auth project at github adding from expo. (https://docs.expo.dev/versions
 add new scheme in package.json.
 
 class 03 2:03:35
+
+to configure axios get your IP.
+
+````
+ifconfig
+```  
+
+install asyncstore from expo
+````
+expo install @react-native-async-storage/async-storage
+````
+
+class 03 2:36:38
+
+install socket-io
+````
+yarn add socket.io-client
+````
+
+Top class!! 
